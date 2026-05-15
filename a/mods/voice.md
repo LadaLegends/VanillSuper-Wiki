@@ -1,5 +1,6 @@
 ---
 description: Мод SimpleVoiceChat добавляет в игру голосовой чат
+hidden: true
 icon: microphone
 ---
 

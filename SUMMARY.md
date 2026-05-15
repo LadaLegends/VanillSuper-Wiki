@@ -18,7 +18,7 @@
 * [Plus подписка](a/plus.md)
 * [Моды](a/mods/README.md)
   * [Голосовой чат](a/mods/voice.md)
-  * [Copy of Голосовой чат](a/mods/voice-1.md)
+  * [Голосовой чат](a/mods/voice-1.md)
   * [Эмоции](a/mods/emotes.md)
 * [Эксперименты](a/eksperimenty.md)
 * [Бекапы](a/backups.md)
