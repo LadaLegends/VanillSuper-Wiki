@@ -27,6 +27,4 @@ _Покупая Plus вы поддерживаете дальнейшее раз
 | ---------------- | ------------- |
 | Plus (базовый)   | 149 ₽ / месяц |
 
-### Магазинчик для покупки:
-
-{% embed url="https://t.me/sniffshop_bot" fullWidth="false" %}
+<a href="https://t.me/sniffshop_bot" class="button primary" data-icon="cart-arrow-down">Приобрести подписку Plus</a>
