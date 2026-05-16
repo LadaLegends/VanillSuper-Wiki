@@ -20,7 +20,7 @@
   * [Голосовой чат](a/mods/voice.md)
   * [Голосовой чат](a/mods/voice-1.md)
   * [Эмоции](a/mods/emotes.md)
-* [Эксперименты](a/eksperimenty.md)
+* [Межсезонья](a/off-season.md)
 * [Бекапы](a/backups.md)
 
 ## ИНТЕРЕСНОЕ <a href="#i" id="i"></a>
@@ -31,7 +31,7 @@
   * [Подпись предметов](i/mechanics/sign.md)
   * [Невидимые рамки](i/mechanics/nevidimye-ramki.md)
   * [Локальная погода](i/mechanics/pweather.md)
-  * [Стойки для брони](i/mechanics/stoiki-dlya-broni.md)
+  * [Стойки для брони](i/mechanics/strike-a-pose.md)
   * [Шаблоны кузнеца](i/mechanics/elytra-trim.md)
   * [Головы с игроков](i/mechanics/chargedheads.md)
   * [Невидимый свет](i/mechanics/invisible_light.md)

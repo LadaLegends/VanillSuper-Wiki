@@ -12,3 +12,5 @@ icon: plus
 * Увидеть, через сколько дней ваша подписка истечет
 * Развернуть список всех фишек, доступных обладателям подписки
 * Установить косметический набор "Plus", который активирует премиальную покраску и значок
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>/plus</p></figcaption></figure></div>
