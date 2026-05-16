@@ -23,8 +23,8 @@ IP: vanillasuper.xyz
 [play.md](m/play.md)
 {% endcontent-ref %}
 
-{% content-ref url="m/rules-old.md" %}
-[rules-old.md](m/rules-old.md)
+{% content-ref url="m/rules.md" %}
+[rules.md](m/rules.md)
 {% endcontent-ref %}
 
 {% content-ref url="i/mechanics/" %}
