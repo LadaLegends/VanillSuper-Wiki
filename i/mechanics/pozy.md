@@ -1,5 +1,6 @@
 ---
 description: Стандартный плагин на позы в игре без сторонних модов.
+hidden: true
 icon: chair
 ---
 

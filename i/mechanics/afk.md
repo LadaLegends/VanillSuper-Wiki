@@ -1,15 +1,19 @@
 ---
-description: Даёт понять игрокам сервера что вы не за игрой
-hidden: true
-icon: chair
+description: На сервере есть система бездействия, показывающая, что вы отошли от игры.
+icon: clock
 ---
 
-# AFK
+# Режим AFK
 
-{% hint style="warning" %}
-Вы находитесь на скрытой странице. Информация на ней, скорее всего, неактуальна.&#x20;
-{% endhint %}
+### Как перейти в режим AFK?
 
-Перейти / выйти — `/afk`
+Для этого вам необходимо:
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (17).png" alt="" width="375"><figcaption></figcaption></figure></div>
+1. Ввести команду /afk.\
+   Либо бездействовать 10 минут.
+
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure></div>
+
+Готово! В чат отправлено публичное уведомление о том, что вы отошли. В списке игроков (табе) справа от ников AFK-игроков будет отображаться значок часов.
+
+<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Список игроков (таб)</p></figcaption></figure></div>
