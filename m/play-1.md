@@ -2,6 +2,24 @@
 description: Простое руководство для начинающих с инструкцией по заходу на сервер.
 hidden: true
 icon: play
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Copy of Как зайти?
@@ -15,14 +33,14 @@ VanillaSuper — приватный ванильный сервер Minecraft с
 ### Первым делом..
 
 1. Зайдите в наш [Дискорд](https://dsc.gg/vanillasuper) сервер.
-2. Зайдите в канал [🎫・начать-играть](https://discord.com/channels/1262771609803030599/1454876835094597685) и заполните заявку (если доступно) или купите проходку в нашем [магазинчике](https://t.me/sniffshop_bot) на действующий сезон.
+2. Зайдите в канал [🎫・начать-играть](https://discord.com/channels/1262771609803030599/1454876835094597685) и заполните заявку или купите проходку на действующий сезон.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>
 
 3. Дождитесь, пока вашу заявку рассмотрят наши администраторы.
 
 {% hint style="info" %}
-Если вы не хотите заполнять заявку или она была отклонена, вы можете приобрести проходку в нашем [магазинчике](https://t.me/sniffshop_bot), дополнительно поддержав проект.
+Если вы не хотите заполнять заявку или она была отклонена, вы можете приобрести проходку, дополнительно поддержав проект.&#x20;
 {% endhint %}
 
 ### Как зайти на сервер?

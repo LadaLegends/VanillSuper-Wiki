@@ -56,3 +56,11 @@ icon: box-archive
 {% endhint %}
 
 <a href="https://drive.google.com/file/d/1_pmZf7BimuSbFDsMbErm75d74ymJrmcM/view?usp=sharing" class="button secondary" data-icon="folder-arrow-down">Скачать сохранение миров</a>
+
+### Выживач 2.0 (2026)
+
+{% hint style="info" %}
+Длительность: 27 дней | Версия: 1.21.11
+{% endhint %}
+
+<a href="https://drive.google.com/file/d/1bGkCK1wLJvm0AwZ7AsUK9_H-mI9HLUv3/view?usp=sharing" class="button secondary" data-icon="folder-arrow-down">Скачать сохранение миров</a>
