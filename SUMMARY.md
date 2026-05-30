@@ -25,6 +25,7 @@
 ## ИНТЕРЕСНОЕ <a href="#i" id="i"></a>
 
 * [Кастомные крафты](i/crafts.md)
+* [Ресурспак](i/resurspak.md)
 * [Механики](i/mechanics/README.md)
   * [Любой головной убор](i/mechanics/lyuboi-golovnoi-ubor.md)
   * [Подпись предметов](i/mechanics/sign.md)
@@ -36,6 +37,7 @@
   * [Головы с игроков](i/mechanics/chargedheads.md)
   * [Невидимый свет](i/mechanics/invisible_light.md)
   * [Крафты картин](i/mechanics/krafty-kartin.md)
+  * [RUS Баннеры](i/mechanics/rus-banners.md)
   * [Кабинет Plus](i/mechanics/kabinet-plus.md)
   * [Упоминания](i/mechanics/mention.md)
   * [Анти-гриф](i/mechanics/anti-grif.md)

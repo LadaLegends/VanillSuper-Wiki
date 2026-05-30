@@ -9,8 +9,6 @@ icon: paintbrush-fine
 
 ### Рецепт создания
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure></div>
 
-Для лучшего опыта рекомендуем установить ресурспак на визуальное отображение картин в инвентаре. Один из таких можно скачать по ссылке ниже.
-
-<a href="https://modrinth.com/resourcepack/cit-painting-icons" class="button primary" data-icon="folder-arrow-down">Скачать "CIT Painting Icons"</a>
+Для лучшего опыта рекомендуем установить [серверный ресурспак](../resurspak.md). С ним вы будете визуально видеть содержимое каждой картины.

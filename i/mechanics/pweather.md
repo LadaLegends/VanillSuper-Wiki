@@ -1,7 +1,7 @@
 ---
 description: >-
   Вы можете визуально (на стороне клиента) изменять свою погоду с помощью
-  команд.
+  команды.
 icon: cloud-fog
 ---
 
@@ -11,7 +11,11 @@ icon: cloud-fog
 Функция доступна только с подпиской [Plus](../../a/plus.md).
 {% endhint %}
 
-* Изменить погоду для себя:  /pweather
+### Как изменить погоду?
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>/pweather</p></figcaption></figure></div>
+1. Введите команду /pweather.
+2. Выберите нужную погоду.
+3. **Готово**!
+
+<div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>/pweather</p></figcaption></figure></div>
 

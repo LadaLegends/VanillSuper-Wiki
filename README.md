@@ -7,6 +7,27 @@ icon: hand-wave
 cover: .gitbook/assets/banner (1).jpg
 coverY: 0
 coverHeight: 346
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Вступление
