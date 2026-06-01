@@ -1,5 +1,6 @@
 ---
 description: Ваш личный кабинет подписки Плюс.
+hidden: true
 icon: plus
 ---
 

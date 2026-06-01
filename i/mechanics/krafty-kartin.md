@@ -7,8 +7,8 @@ icon: paintbrush-fine
 
 # Крафты картин
 
-### Рецепт создания
+{% hint style="info" %}
+Благодаря [серверному ресурспаку](../resurspak.md) вы будете видеть содержимое картины
+{% endhint %}
 
 <div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure></div>
-
-Для лучшего опыта рекомендуем установить [серверный ресурспак](../resurspak.md). С ним вы будете визуально видеть содержимое каждой картины.
