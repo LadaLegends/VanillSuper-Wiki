@@ -1,6 +1,6 @@
 ---
 description: Мод EmoteCraft добавляет анимированные эмоции в игру.
-icon: face-kiss-wink-heart
+icon: face-smile-wink
 ---
 
 # Эмоции

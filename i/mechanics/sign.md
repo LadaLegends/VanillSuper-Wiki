@@ -14,7 +14,7 @@ icon: pen-nib
 1. Взять в правую руку нужный предмет
 2. Ввести команду /sign
 
-<div align="left" data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image_2026-03-10_22-28-52.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="false" data-with-frame="true"><figure><img src="../../.gitbook/assets/image_2026-03-10_22-28-52.png" alt=""><figcaption></figcaption></figure></div>
 
 Готово! Подпись также содержит в себе дату и время, когда предмет был подписан.
 

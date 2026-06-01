@@ -13,4 +13,4 @@ icon: redhat
 
 * Установить предмет в слот шлема: /hat
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (16).png" alt="" width="165"><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (16).png" alt="" width="165"><figcaption></figcaption></figure></div>

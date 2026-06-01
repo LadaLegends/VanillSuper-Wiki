@@ -1,5 +1,5 @@
 ---
-description: Мод PlasmoVoice добавляет в игру голосовой чат
+description: На нашем сервере есть голосовой чат реализованный через мод PlasmoVoice.
 icon: microphone
 ---
 
@@ -19,20 +19,10 @@ icon: microphone
 
 <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/keys.webp" alt="" width="563"><figcaption></figcaption></figure></div>
 
-Зайдите в социальное меню Minecraft, чтобы заглушать и изменить громкость игроков. Кнопка <mark style="color:green;">**`P`**</mark> по умолчанию
+## Значение иконок <a href="#znachenie-hud-ikonok" id="znachenie-hud-ikonok"></a>
 
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/social.webp" alt="" width="563"><figcaption></figcaption></figure></div>
-
-Зажмите <mark style="color:green;">**`ПКМ`**</mark> и крутите колёсико мыши, чтобы изменять громкость не заходя в меню
-
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/scroll.webp" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/I6zEXw9.png" alt="" width="563"><figcaption><p>Значение HUD иконок</p></figcaption></figure></div>
 
 
 
-## Значение HUD иконок <a href="#znachenie-hud-ikonok" id="znachenie-hud-ikonok"></a>
-
-<div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/I6zEXw9.png" alt=""><figcaption></figcaption></figure></div>
-
-## Значение иконок над игроками <a href="#znachenie-ikonok-nad-igrokami" id="znachenie-ikonok-nad-igrokami"></a>
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/JbWCjLK.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/JbWCjLK.png" alt="" width="563"><figcaption><p>Значение иконок над игроками</p></figcaption></figure></div>

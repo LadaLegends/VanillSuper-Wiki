@@ -27,6 +27,7 @@
 * [Кастомные крафты](i/crafts.md)
 * [Ресурспак](i/resurspak.md)
 * [Механики](i/mechanics/README.md)
+  * [Балансировка торговли](i/mechanics/balansirovka-torgovli.md)
   * [Любой головной убор](i/mechanics/lyuboi-golovnoi-ubor.md)
   * [Подпись предметов](i/mechanics/sign.md)
   * [Кирпич как снаряд](i/mechanics/kirpich-kak-snaryad.md)
