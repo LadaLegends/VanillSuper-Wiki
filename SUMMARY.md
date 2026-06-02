@@ -29,6 +29,7 @@
 * [Механики](i/mechanics/README.md)
   * [Балансировка торговли](i/mechanics/balansirovka-torgovli.md)
   * [Любой головной убор](i/mechanics/lyuboi-golovnoi-ubor.md)
+  * [Волейбольные мячи](i/mechanics/voleibolnye-myachi.md)
   * [Подпись предметов](i/mechanics/sign.md)
   * [Кирпич как снаряд](i/mechanics/kirpich-kak-snaryad.md)
   * [Невидимые рамки](i/mechanics/nevidimye-ramki.md)
