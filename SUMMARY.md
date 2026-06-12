@@ -19,6 +19,7 @@
   * [Голосовой чат](a/mods/voice.md)
   * [Голосовой чат](a/mods/voice-1.md)
   * [Эмоции](a/mods/emotes.md)
+  * [PatPat](a/mods/patpat.md)
 * [Межсезонья](a/off-season.md)
 * [Бекапы](a/backups.md)
 
