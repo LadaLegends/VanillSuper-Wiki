@@ -4,8 +4,8 @@
 
 ## ОСНОВНОЕ <a href="#m" id="m"></a>
 
+* [Как зайти?](m/play-1.md)
 * [Как зайти?](m/play.md)
-* [Copy of Как зайти?](m/play-1.md)
 * [О сервере](m/about-server.md)
 * [Правила](m/rules.md)
 * [OLD Правила](m/rules-old-2.md)

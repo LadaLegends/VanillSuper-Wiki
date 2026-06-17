@@ -40,8 +40,8 @@ IP: vanillasuper.xyz
 Версия: Minecraft Java 1.21.11
 {% endhint %}
 
-{% content-ref url="m/play.md" %}
-[play.md](m/play.md)
+{% content-ref url="m/play-1.md" %}
+[play-1.md](m/play-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="m/rules.md" %}
