@@ -9,7 +9,7 @@ icon: pen-field
 # Item Lore
 
 {% hint style="warning" %}
-Функция Item Lore больше недоступна для Plus.[Plus](../../a/plus.md)
+Функция Item Lore больше недоступна для Plus.
 {% endhint %}
 
 Установить название — `/rename (ваше название)`\

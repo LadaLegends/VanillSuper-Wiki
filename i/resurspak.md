@@ -9,7 +9,9 @@ icon: star
 
 ### Как скачать?
 
-Ресурспак устанавливается автоматически после захода на сервер.&#x20;
+1. Введите команду /rp.
+2. Подтвердите установку ресурспака.
+3. **Готово**!
 
 ### Что добавляет ресурспак?
 
@@ -22,6 +24,6 @@ icon: star
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (44).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 3. Уникальная текстурка иконки для каждой картины в соответсии с ее содержимым.\
-   Нужен для: "[Крафты картин](mechanics/krafty-kartin.md)". Оригинал: "[CIT Painting Icons](https://modrinth.com/resourcepack/cit-painting-icons)"
+   Полезен для: "[Крафты картин](mechanics/krafty-kartin.md)". Оригинал: "[CIT Painting Icons](https://modrinth.com/resourcepack/cit-painting-icons) (Modrinth)"
 
 <div data-with-frame="true"><figure><img src="https://cdn.modrinth.com/data/dWloHgVp/images/e4b28e37c7e120795a63245abfdc3099081ca3a3.png" alt="" width="563"><figcaption></figcaption></figure></div>

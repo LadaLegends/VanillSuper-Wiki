@@ -7,10 +7,7 @@ icon: clock
 
 ### Как перейти в режим AFK?
 
-Для этого вам необходимо:
-
-1. Ввести команду /afk.\
-   Либо бездействовать 10 минут.
+Для этого вам необходимо бездействовать 10 минут.
 
 <div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure></div>
 
