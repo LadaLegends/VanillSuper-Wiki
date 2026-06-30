@@ -19,7 +19,7 @@ icon: star
 
 <div data-with-frame="true"><figure><img src="https://images.gitbook.com/__img/dpr=2,width=760,onerror=redirect,format=auto,signature=1557809932/https%3A%2F%2Fcdn.modrinth.com%2Fdata%2FBy6q66nW%2Fimages%2F54d41030c44f07528e831e23604adcefe62c5393.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-2. Hазноцветные коврики для нюхачей при переименовании биркой. [Подробнее](https://modrinth.com/resourcepack/bettersniffer)
+2. Разноцветные коврики для нюхачей при переименовании биркой. [Подробнее](https://modrinth.com/resourcepack/bettersniffer)
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (44).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
