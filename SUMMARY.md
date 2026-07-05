@@ -7,9 +7,18 @@
 * [Как зайти?](m/play-1.md)
 * [Как зайти?](m/play.md)
 * [О сервере](m/about-server.md)
-* [Правила](m/rules.md)
+* [Copy of Правила](m/rules-old.md)
 * [OLD Правила](m/rules-old-2.md)
 * [Q\&A](m/faq.md)
+
+## Правила <a href="#rules" id="rules"></a>
+
+* [Раздел 1](rules/razdel-1.md)
+* [Раздел 2](rules/razdel-2.md)
+* [Раздел 3](rules/razdel-3.md)
+* [Раздел 4](rules/razdel-4.md)
+* [Раздел 5](rules/razdel-5.md)
+* [Раздел 6](rules/razdel-6.md)
 
 ## ДОПОЛНИТЕЛЬНО <a href="#a" id="a"></a>
 
